@@ -1,0 +1,26 @@
+.AllCard {
+    width: 35%;
+    margin: auto;
+}
+
+@media only screen and (max-width: 1200px) {
+    .AllCard {
+        width: 60%;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .AllCard {
+        width: 70%;
+        margin: auto;
+    }
+}
+
+
+@media only screen and (max-width: 800px) {
+    .AllCard {
+        width: 80%;
+        margin: auto;
+    }
+}
